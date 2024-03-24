@@ -1,6 +1,6 @@
 ### Hi there 👋
-- Founded [@mosaik-software](https://github.com/mosaik-software)
-- You can find me on [Mastodon](https://mastodon.gamedev.place/@callan), [Twitter](https://twitter.com/cal_acton)
+- Founded [@mosaik-software](https://mosaik.au)
+- You can find me on [Mastodon](https://mastodon.gamedev.place/@callan) and [Twitter](https://twitter.com/cal_acton)
 - Currently hacking on a 2D Pixel art renderer in Vulkan & DirectX 12: [Ember](https://github.com/maze7/ember)
 <!--
 **maze7/maze7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
