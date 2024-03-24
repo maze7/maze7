@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=maze7&show_icons=true&theme=dark&include_all_commits=true" alt=" GitHub stats for Sascha Willems"/>
-
 <!--
 **maze7/maze7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
